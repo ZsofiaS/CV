@@ -26,19 +26,19 @@ I'm an aspiring full stack developer, currently studying at Makers Academy, a hi
 
 ## Education
 
-#### Software Developer Bootcamp, Makers Academy
+#### Software Developer Bootcamp, Makers Academy (Apr 2020 - July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### ELTE University
+#### ELTE University (Sept 2004 - Jan 2010)
 
 - Cartography
 - Courses included Computer Science & GIS
 
-#### Web Development Course, Udemy
+#### Web Development Course, Udemy (2019)
 - Provided by London App Brewery
 
 ## Experience
