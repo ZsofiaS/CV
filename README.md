@@ -1,55 +1,64 @@
-## Your Name
+## Zsofia Szonyi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm an aspiring full stack developer, currently studying at Makers Academy, a highly selective coding bootcamp. After 6 years in administration and coming from a science background, I was ready to pursue a new career in software development. I discovered that seeing my coding projects come to life and solving puzzles on the way is one of the most satisfying things.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
+#### Development Projects
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Quick self-learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Able to learn new technologies rapidly and efficiently. 
+- I got into coding through self-learning, and before joining the bootcamp I taught myself a wide range of technologies, in both front-end (React) and back-end (Node.js & MongoDB).
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Inquisitive
+- I love learning & improving, whether it's acquiring technical knowledge, experimenting in the kitchen, or learning a new language. 
+
+#### Attention to detail
+- While working with financial data I have developed a keen eye for the details. This directly relates to the coding debugging process and it helps me find the bug.
+
+#### Additional skills
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Software Developer Bootcamp, Makers Academy
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### ELTE University
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Cartography
+- Courses included Computer Science & GIS
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Web Development Course, Udemy
+- Provided by London App Brewery
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**MNM Property Services** (Nov 2015 - Aug 2019)    
+*Senior Administrator (accounts & operations)*  
+- Managed a team of 8 operatives, efficiently allocated tasks daily to ensure customer's satisfaction, managed employees’ timesheets in a timely and precise manner.  
+- Communicated and interacted successfully with suppliers, clients and operatives on a day to day basis, received around 50 phone calls a day, prepared work costing and quotations accurately thus generating greater income for the company. Resolved complaints to customer's satisfaction, resolved invoice queries.     
+- Exceeded goals in time management which resulted in completing tasks within deadline.  
+- Processed purchase invoices and credit notes accurately, collated purchase orders, raised client invoices. Tracked the status of orders, processed employees’ expense claims.  
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**APM Maintenance** (Feb 2014 - Nov 2015)   
+*Administrator (operations)*  
+- Coordinated day-to-day operations to ensure the smooth running of the department. 
+- Managed a team of 6 operatives, making sure jobs are allocated efficiently. 
+- Liaised with subcontractors, operatives and clients regularly, updated the CRM database with relevant information. 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Travelling
+Baking
+Bouldering: climbing at V4 grade
+Foreign languages: basic Korean, Chinese, Polish, Spanish and French.
