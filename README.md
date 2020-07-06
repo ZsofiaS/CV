@@ -10,6 +10,7 @@ My goal is to work at a company where I can continue to improve the skillset I d
 |[ThereAndBack](https://github.com/ZsofiaS/route_planner)|A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities|React, Firebase, Leaflet, Bootstrap|Cypress, Istanbul|
 |[NO-de-problem](https://github.com/ZsofiaS/acebook-NO-de-Problem)|A re-creation of facebook with MERN stack|Node, Express, MongoDB, React|Cypress, Jest|
 |[SpacedOut](https://github.com/ZsofiaS/Makersbnb)|A re-creation of AirBnB on an intergalactic scale using Ruby|Ruby, Sinatra, Bootstrap, PostgreSQL|Capybara, RSpec|
+|[Bank Tech Test](https://github.com/ZsofiaS/Bank-tech-test)|A practice tech test, with a focus on OO design & TDD|Javascript|Jasmine|
 
 ## Skills
 
