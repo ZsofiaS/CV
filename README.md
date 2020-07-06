@@ -1,4 +1,6 @@
 ## Zsofia Szonyi
+|[Development Projects](#development-projects)|[Skills](#skills)|[Education](#education)|[Experience](#experience)|[Hobbies](#hobbies)|
+|---|---|---|---|---|
 
 I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy solving problems.  
 My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
@@ -14,7 +16,7 @@ My goal is to work at a company where I can continue to improve the skillset I d
 
 ## Skills
 
-#### Technical experience
+#### Technical skills
 Makers Academy (March 2020 - July 2020)
 * Ruby, Sinatra
 * Javascript, JQuery, React
