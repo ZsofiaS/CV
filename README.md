@@ -1,10 +1,10 @@
-## Zsofia Szonyi
-
-| [Development Projects](#development-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
-|---|---|---|---|---|
+## ZSOFIA SZONYI
 
 
-I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy solving problems.  
+[DEVELOPMENT PROJECTS](#development-projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies) 
+  
+
+I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy the challenges and continuous learning process it involves.  
 My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
 
 ## Development Projects
@@ -33,7 +33,7 @@ Makers Academy (March 2020 - July 2020)
 * HTML, CSS, Bootstrap
 * Git & GitHub
 * Configuring 3rd party APIs
-* strong focus on pair programming and teamwork
+* Strong focus on pair programming and teamwork
 
 #### Quick self-learner
 
@@ -56,7 +56,9 @@ Makers Academy (March 2020 - July 2020)
 - Agile/XP
 - Main languages: Ruby, JavaScript
 - Testing: RSpec, Capybara, Jasmine, Cypress, Jest
-- remote pairing & teamwork
+- remote pairing & teamwork 
+
+I wrote about my experience of the bootcamp in [my blog](https://zsofi.surge.sh/).
 
 #### ELTE University (Sept 2004 - Jan 2010)
 
