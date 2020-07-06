@@ -1,45 +1,61 @@
 ## Zsofia Szonyi
 
-I'm an aspiring full stack developer, currently studying at Makers Academy, a highly selective coding bootcamp. After 6 years in administration and coming from a science background, I was ready to pursue a new career in software development. I discovered that seeing my coding projects come to life and solving puzzles on the way is one of the most satisfying things.
+I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy solving problems. 
+My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
+
+## Development Projects
+
+|Project|Description|Tech stack|Testing tech|
+|---|---|---|---|
+|[ThereAndBack](https://github.com/ZsofiaS/route_planner)|A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities|React, Firebase, Leaflet, Bootstrap|Cypress, Istanbul|
+|[NO-de-problem](https://github.com/ZsofiaS/acebook-NO-de-Problem)|A re-creation of facebook with MERN stack|Node, Express, MongoDB, React|Cypress, Jest|
+|[SpacedOut](https://github.com/ZsofiaS/Makersbnb)|A re-creation of AirBnB on an intergalactic scale using Ruby|Ruby, Sinatra, Bootstrap, PostgreSQL|Capybara, RSpec|
 
 ## Skills
 
-#### Development Projects
-
-- Experience
-- Achievements
-- Evidence
+#### Technical experience
+Makers Academy (March 2020 - July 2020)
+* Ruby, Sinatra
+* Javascript, JQuery, React
+* Node, Express
+* PostgreSQL, MongoDB
+* OOP, TDD, MVC
+* Agile development
+* Extreme programming
+* Testing: RSpec, Capybara, Jasmine, Cypress, Jest
+* Continuous integration: Travis
+* Deploying: Heroku
+* HTML, CSS, Bootstrap
+* Git & GitHub
+* Configuring 3rd party APIs
+* strong focus on pair programming and teamwork
 
 #### Quick self-learner
 
 - Able to learn new technologies rapidly and efficiently. 
-- I got into coding through self-learning, and before joining the bootcamp I taught myself a wide range of technologies, in both front-end (React) and back-end (Node.js & MongoDB).
+- I got into coding through self-learning, and before joining the bootcamp I taught myself a wide range of technologies, in both front-end and back-end.
+- At the bootcamp, within just 2 weeks in a team of 4 we taught ourselves how to work with map APIs, how to use Firebase Authentication and Firestore database, to use with out React frontend and delivered a web mapping app. 
 
 #### Inquisitive
 - I love learning & improving, whether it's acquiring technical knowledge, experimenting in the kitchen, or learning a new language. 
 
-#### Attention to detail
-- While working with financial data I have developed a keen eye for the details. This directly relates to the coding debugging process and it helps me find the bug.
-
-#### Additional skills
-
+#### Attention to detail & organised
+- While working with financial data I have developed a keen eye for the details. This directly relates to the debugging process in development and allowed me to quickly improve, thus saving on debugging time.
+- Having been working as a senior administrator in a fast paced environment meant working in a methodical and organised manner  was key for me to get the work done in a timely manner.
 
 ## Education
 
-#### Software Developer Bootcamp, Makers Academy (Apr 2020 - July 2020)
+#### Software Developer Bootcamp, Makers Academy (March 2020 - July 2020)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Main languages: Ruby, JavaScript
+- Testing: RSpec, Capybara, Jasmine, Cypress, Jest
 
 #### ELTE University (Sept 2004 - Jan 2010)
 
 - Cartography
-- Courses included Computer Science & GIS
-
-#### Web Development Course, Udemy (2019)
-- Provided by London App Brewery
+- Modules included Computer Science & GIS
 
 ## Experience
 
@@ -58,7 +74,7 @@ I'm an aspiring full stack developer, currently studying at Makers Academy, a hi
 
 ## Hobbies
 
-Travelling
+Travelling - I thoroughly enjoy immersing myself in different cultures & being in the nature
 Baking
-Bouldering: climbing at V4 grade
+Bouldering - I climb at V4 grade, usually indoors
 Foreign languages: basic Korean, Chinese, Polish, Spanish and French.
