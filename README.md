@@ -1,6 +1,6 @@
 ## Zsofia Szonyi
 
-I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy solving problems. 
+I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy solving problems.  
 My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
 
 ## Development Projects
@@ -61,20 +61,20 @@ Makers Academy (March 2020 - July 2020)
 
 **MNM Property Services** (Nov 2015 - Aug 2019)    
 *Senior Administrator (accounts & operations)*  
-- Managed a team of 8 operatives, efficiently allocated tasks daily to ensure customer's satisfaction, managed employees’ timesheets in a timely and precise manner.  
-- Communicated and interacted successfully with suppliers, clients and operatives on a day to day basis, received around 50 phone calls a day, prepared work costing and quotations accurately thus generating greater income for the company. Resolved complaints to customer's satisfaction, resolved invoice queries.     
-- Exceeded goals in time management which resulted in completing tasks within deadline.  
-- Processed purchase invoices and credit notes accurately, collated purchase orders, raised client invoices. Tracked the status of orders, processed employees’ expense claims.  
+Managed a team of 8 operatives, efficiently allocated tasks daily to ensure customer's satisfaction, managed employees’ timesheets in a timely and precise manner.  
+Communicated and interacted successfully with suppliers, clients and operatives on a day to day basis, received around 50 phone calls a day, prepared work costing and quotations accurately thus generating greater income for the company. Resolved complaints to customer's satisfaction, resolved invoice queries.     
+Exceeded goals in time management which resulted in completing tasks within deadline.  
+Processed purchase invoices and credit notes accurately, collated purchase orders, raised client invoices. Tracked the status of orders, processed employees’ expense claims.  
 
 **APM Maintenance** (Feb 2014 - Nov 2015)   
 *Administrator (operations)*  
-- Coordinated day-to-day operations to ensure the smooth running of the department. 
-- Managed a team of 6 operatives, making sure jobs are allocated efficiently. 
-- Liaised with subcontractors, operatives and clients regularly, updated the CRM database with relevant information. 
+Coordinated day-to-day operations to ensure the smooth running of the department. 
+Managed a team of 6 operatives, making sure jobs are allocated efficiently. 
+Liaised with subcontractors, operatives and clients regularly, updated the CRM database with relevant information. 
 
 ## Hobbies
 
-Travelling - I thoroughly enjoy immersing myself in different cultures & being in the nature
-Baking
-Bouldering - I climb at V4 grade, usually indoors
-Foreign languages: basic Korean, Chinese, Polish, Spanish and French.
+- Travelling - I thoroughly enjoy immersing myself in different cultures & being in the nature
+- Baking
+- Bouldering - I climb at V4 grade, usually indoors
+- Foreign languages: basic Korean, Chinese, Polish, Spanish and French.
