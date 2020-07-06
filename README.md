@@ -1,6 +1,8 @@
 ## Zsofia Szonyi
-|[Development Projects](#development-projects)|[Skills](#skills)|[Education](#education)|[Experience](#experience)|[Hobbies](#hobbies)|
+
+| [Development Projects](#development-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) |
 |---|---|---|---|---|
+
 
 I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy solving problems.  
 My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
@@ -54,6 +56,7 @@ Makers Academy (March 2020 - July 2020)
 - Agile/XP
 - Main languages: Ruby, JavaScript
 - Testing: RSpec, Capybara, Jasmine, Cypress, Jest
+- remote pairing & teamwork
 
 #### ELTE University (Sept 2004 - Jan 2010)
 
