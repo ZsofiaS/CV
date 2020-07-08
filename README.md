@@ -1,11 +1,23 @@
-## ZSOFIA SZONYI
-
-
-[DEVELOPMENT PROJECTS](#development-projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies) 
+<h1 align="center">ZSOFIA SZONYI</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zsofia-szonyi-34b8b6b6/">LinkedIn</a> • 
+  <a href="https://zsofi.co.uk">Personal website</a> • 
+  <a href="https://zsofi.surge.sh">Blog</a>
   
+</p>
 
 I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy the challenges and continuous learning process it involves.  
 My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
+
+<div align="center">
+  
+[DEVELOPMENT PROJECTS](#development-projects) | 
+[SKILLS](#skills) | 
+[EDUCATION](#education) | 
+[EXPERIENCE](#experience) | 
+[HOBBIES](#hobbies) 
+
+</div>
 
 ## Development Projects
 
