@@ -48,7 +48,7 @@ Makers Academy (March 2020 - July 2020)
 * Configuring 3rd party APIs
 * Strong focus on pair programming and teamwork
 
-#### Quick self-learner
+#### Quick self-learner & self-motivated
 
 - Able to learn new technologies rapidly and efficiently. 
 - I got into coding through self-learning, and before joining the bootcamp I taught myself a wide range of technologies, in both front-end and back-end.
@@ -60,6 +60,9 @@ Makers Academy (March 2020 - July 2020)
 #### Attention to detail & organised
 - While working with financial data I have developed a keen eye for the details. This directly relates to the debugging process in development and allowed me to quickly improve, thus saving on debugging time.
 - Having been working as a senior administrator in a fast paced environment meant working in a methodical and organised manner  was key for me to get the work done in a timely manner.
+
+#### Adaptable
+- I have lived in 3 different countries, and whatever challenges I faced, I always found a way around them. 
 
 ## Education
 
@@ -96,6 +99,6 @@ Liaised with subcontractors, operatives and clients regularly, updated the CRM d
 ## Hobbies
 
 - Travelling - I thoroughly enjoy immersing myself in different cultures & being in the nature
-- Baking
-- Bouldering - I climb at V4 grade, usually indoors
+- Bouldering - I climb at V4 grade, usually indoors and occasionally on Southern Sandstone. I also tried my hand at deep water solo (climbing high rock walls without any protective equipment, above the sea) in Vietnam and Mallorca.
 - Foreign languages: basic Korean, Chinese, Polish, Spanish and French.
+- Baking
