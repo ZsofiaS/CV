@@ -1,8 +1,8 @@
 <h1 align="center">ZSOFIA SZONYI</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/zsofia-szonyi-34b8b6b6/">LinkedIn</a> • 
-  <a href="https://zsofi.co.uk">Personal website</a> • 
-  <a href="https://zsofi.surge.sh">Blog</a>
+  <a href="https://www.linkedin.com/in/zsofia-szonyi-34b8b6b6/">LINKEDIN</a> • 
+  <a href="https://zsofi.co.uk">PERSONAL WEBSITE</a> • 
+  <a href="https://zsofi.surge.sh">BLOG</a>
   
 </p>
 
@@ -11,13 +11,14 @@ My goal is to work at a company where I can continue to improve the skillset I d
 
 <div align="center">
   
-[DEVELOPMENT PROJECTS](#development-projects) | 
-[SKILLS](#skills) | 
-[EDUCATION](#education) | 
-[EXPERIENCE](#experience) | 
+[DEVELOPMENT PROJECTS](#development-projects) • 
+[SKILLS](#skills) • 
+[EDUCATION](#education) • 
+[EXPERIENCE](#experience) • 
 [HOBBIES](#hobbies) 
 
 </div>
+
 
 ## Development Projects
 
