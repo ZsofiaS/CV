@@ -6,7 +6,8 @@
   
 </p>
 
-I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development. I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy the challenges and continuous learning process it involves.  
+I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development.  
+I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy the challenges and continuous learning process it involves.  
 My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
 
 <div align="center">
@@ -22,12 +23,12 @@ My goal is to work at a company where I can continue to improve the skillset I d
 
 ## Development Projects
 
-|Project|Description|Tech stack|Testing tech|
-|---|---|---|---|
-|[ThereAndBack](https://github.com/ZsofiaS/route_planner)|A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities|React, Firebase, Leaflet, Bootstrap|Cypress, Istanbul|
-|[NO-de-problem](https://github.com/ZsofiaS/acebook-NO-de-Problem)|A re-creation of facebook with MERN stack|Node, Express, MongoDB, React|Cypress, Jest|
-|[SpacedOut](https://github.com/ZsofiaS/Makersbnb)|A re-creation of AirBnB on an intergalactic scale using Ruby|Ruby, Sinatra, Bootstrap, PostgreSQL|Capybara, RSpec|
-|[Bank Tech Test](https://github.com/ZsofiaS/Bank-tech-test)|A practice tech test, with a focus on OO design & TDD|Javascript|Jasmine|
+|Project|Description|Tech stack|Testing tech|Team/individual|
+|---|---|---|---|---|
+|[ThereAndBack](https://github.com/ZsofiaS/route_planner)|A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities|React, Firebase, Leaflet, Bootstrap|Cypress, Istanbul|Team|
+|[NO-de-problem](https://github.com/ZsofiaS/acebook-NO-de-Problem)|A re-creation of facebook with MERN stack|Node, Express, MongoDB, React|Cypress, Jest|Team|
+|[SpacedOut](https://github.com/ZsofiaS/Makersbnb)|A re-creation of AirBnB on an intergalactic scale using Ruby|Ruby, Sinatra, Bootstrap, PostgreSQL|Capybara, RSpec|Team|
+|[Bank Tech Test](https://github.com/ZsofiaS/Bank-tech-test)|A practice tech test, with a focus on OO design & TDD|Javascript|Jasmine|Individual|
 
 ## Skills
 
