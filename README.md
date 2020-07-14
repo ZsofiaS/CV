@@ -48,6 +48,9 @@ Makers Academy (March 2020 - July 2020)
 * Configuring 3rd party APIs
 * Strong focus on pair programming and teamwork
 
+Coding mentor on [Exercism.io](https://exercism.io/) (open source)
+* mentoring students learning to code, currently on the Javascript track
+
 #### Quick self-learner & self-motivated
 
 - Able to learn new technologies rapidly and efficiently. 
@@ -102,3 +105,4 @@ Liaised with subcontractors, operatives and clients regularly, updated the CRM d
 - Bouldering - I climb at V4 grade, usually indoors and occasionally on Southern Sandstone. I also tried my hand at deep water solo (climbing high rock walls without any protective equipment, above the sea) in Vietnam and Mallorca.
 - Foreign languages: basic Korean, Chinese, Polish, Spanish and French.
 - Baking
+- Coding mentor on [Exercism.io](https://exercism.io/) (open source)
