@@ -82,7 +82,7 @@ Coding mentor on [Exercism.io](https://exercism.io/) (open source)
 
 I wrote about my experience of the bootcamp in [my blog](https://zsofi.surge.sh/).
 
-#### ELTE University (Sept 2004 - Jan 2010)
+#### ELTE University, Hungary (Sept 2004 - Jan 2010) & AGH University, Poland (Feb - July 2008) - scholarship
 
 - Cartography
 - Modules included Computer Science & GIS
