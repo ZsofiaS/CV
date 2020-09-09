@@ -1,22 +1,22 @@
 <h1 align="center">ZSOFIA SZONYI</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/zsofia-szonyi-34b8b6b6/">LINKEDIN</a> • 
-  <a href="https://zsofi.co.uk">PERSONAL WEBSITE</a> • 
+  <a href="https://www.linkedin.com/in/zsofia-szonyi-34b8b6b6/">LINKEDIN</a> •
+  <a href="https://zsofi.co.uk">PERSONAL WEBSITE</a> •
   <a href="https://zsofi.surge.sh">BLOG</a>
-  
+
 </p>
 
 I studied at Makers Academy, a highly selective developer bootcamp from March to July 2020. I initially taught myself to code, and after 6 years in administration and coming from a science background, I decided to pursue a new career in software development.  
 I found seeing my coding projects come to life very satisfying, and I discovered how much I enjoy the challenges and continuous learning process it involves.  
-My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes. 
+My goal is to work at a company where I can continue to improve the skillset I developed at Makers, following best practices and processes.
 
 <div align="center">
-  
-[DEVELOPMENT PROJECTS](#development-projects) • 
-[SKILLS](#skills) • 
-[EDUCATION](#education) • 
-[EXPERIENCE](#experience) • 
-[HOBBIES](#hobbies) 
+
+[DEVELOPMENT PROJECTS](#development-projects) •
+[SKILLS](#skills) •
+[EDUCATION](#education) •
+[EXPERIENCE](#experience) •
+[HOBBIES](#hobbies)
 
 </div>
 
@@ -29,6 +29,7 @@ My goal is to work at a company where I can continue to improve the skillset I d
 |[NO-de-problem](https://github.com/ZsofiaS/acebook-NO-de-Problem)|A re-creation of facebook with MERN stack|Node, Express, MongoDB, React|Cypress, Jest|Team|
 |[SpacedOut](https://github.com/ZsofiaS/Makersbnb)|A re-creation of AirBnB on an intergalactic scale using Ruby|Ruby, Sinatra, Bootstrap, PostgreSQL|Capybara, RSpec|Team|
 |[Bank Tech Test](https://github.com/ZsofiaS/Bank-tech-test)|A practice tech test, with a focus on OO design & TDD|Javascript|Jasmine|Individual|
+|[Morning App](https://github.com/ZsofiaS/MorningApp)|A feel-good morning app to help stay positive|React Native, SQLite|Jest|Individual|
 
 For more projects please see my [Github repositories](https://github.com/ZsofiaS).
 
@@ -54,21 +55,24 @@ Makers Academy (March 2020 - July 2020)
 Coding mentor on [Exercism.io](https://exercism.io/) (open source)
 * mentoring students learning to code, currently on the Javascript track
 
+Additional skills
+* React Native
+
 #### Quick self-learner & self-motivated
 
-- Able to learn new technologies rapidly and efficiently. 
+- Able to learn new technologies rapidly and efficiently.
 - I got into coding through self-learning, and before joining the bootcamp I taught myself a wide range of technologies, in both front-end and back-end.
-- At the bootcamp, within just 2 weeks in a team of 4 we taught ourselves how to work with map APIs, how to use Firebase Authentication and Firestore database, to use with out React frontend and delivered a web mapping app. 
+- At the bootcamp, within just 2 weeks in a team of 4 we taught ourselves how to work with map APIs, how to use Firebase Authentication and Firestore database, to use with out React frontend and delivered a web mapping app.
 
 #### Inquisitive
-- I love learning & improving, whether it's acquiring technical knowledge, experimenting in the kitchen, or learning a new language. 
+- I love learning & improving, whether it's acquiring technical knowledge, experimenting in the kitchen, or learning a new language.
 
 #### Attention to detail & organised
 - While working with financial data I have developed a keen eye for the details. This directly relates to the debugging process in development and allowed me to quickly improve, thus saving on debugging time.
 - Having been working as a senior administrator in a fast paced environment meant working in a methodical and organised manner  was key for me to get the work done in a timely manner.
 
 #### Adaptable
-- I have lived in 3 different countries, and whatever challenges I faced, I always found a way around them. 
+- I have lived in 3 different countries, and whatever challenges I faced, I always found a way around them.
 
 ## Education
 
@@ -78,7 +82,7 @@ Coding mentor on [Exercism.io](https://exercism.io/) (open source)
 - Agile/XP
 - Main languages: Ruby, JavaScript
 - Testing: RSpec, Capybara, Jasmine, Cypress, Jest
-- remote pairing & teamwork 
+- remote pairing & teamwork
 
 I wrote about my experience of the bootcamp in [my blog](https://zsofi.surge.sh/).
 
@@ -98,9 +102,9 @@ Processed purchase invoices and credit notes accurately, collated purchase order
 
 **APM Maintenance** (Feb 2014 - Nov 2015)   
 *Administrator (operations)*  
-Coordinated day-to-day operations to ensure the smooth running of the department. 
-Managed a team of 6 operatives, making sure jobs are allocated efficiently. 
-Liaised with subcontractors, operatives and clients regularly, updated the CRM database with relevant information. 
+Coordinated day-to-day operations to ensure the smooth running of the department.
+Managed a team of 6 operatives, making sure jobs are allocated efficiently.
+Liaised with subcontractors, operatives and clients regularly, updated the CRM database with relevant information.
 
 ## Hobbies
 
