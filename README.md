@@ -57,7 +57,7 @@ Coding mentor on [Exercism.io](https://exercism.io/) (open source)
 * mentoring students learning to code, currently on the Javascript track
 
 Additional skills
-* React Native
+* React Native, Redux, SQLite, Firebase
 
 #### Quick self-learner & self-motivated
 
