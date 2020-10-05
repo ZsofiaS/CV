@@ -25,6 +25,7 @@ My goal is to work at a company where I can continue to improve the skillset I d
 
 |Project|Description|Tech stack|Testing tech|Team/individual|
 |---|---|---|---|---|
+|[Morning App](https://github.com/ZsofiaS/MorningApp)|A morning app to help pause, reflect & stay positive|React Native, SQLite|Jest|Individual|
 |[ThereAndBack](https://github.com/ZsofiaS/route_planner)|A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities|React, Firebase, Leaflet, Bootstrap|Cypress, Istanbul|Team|
 |[NO-de-problem](https://github.com/ZsofiaS/acebook-NO-de-Problem)|A re-creation of facebook with MERN stack|Node, Express, MongoDB, React|Cypress, Jest|Team|
 |[SpacedOut](https://github.com/ZsofiaS/Makersbnb)|A re-creation of AirBnB on an intergalactic scale using Ruby|Ruby, Sinatra, Bootstrap, PostgreSQL|Capybara, RSpec|Team|
