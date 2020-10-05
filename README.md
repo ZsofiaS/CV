@@ -30,7 +30,6 @@ My goal is to work at a company where I can continue to improve the skillset I d
 |[NO-de-problem](https://github.com/ZsofiaS/acebook-NO-de-Problem)|A re-creation of facebook with MERN stack|Node, Express, MongoDB, React|Cypress, Jest|Team|
 |[SpacedOut](https://github.com/ZsofiaS/Makersbnb)|A re-creation of AirBnB on an intergalactic scale using Ruby|Ruby, Sinatra, Bootstrap, PostgreSQL|Capybara, RSpec|Team|
 |[Bank Tech Test](https://github.com/ZsofiaS/Bank-tech-test)|A practice tech test, with a focus on OO design & TDD|Javascript|Jasmine|Individual|
-|[Morning App](https://github.com/ZsofiaS/MorningApp)|A feel-good morning app to help stay positive|React Native, SQLite|Jest|Individual|
 
 For more projects please see my [Github repositories](https://github.com/ZsofiaS).
 
